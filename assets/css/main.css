@@ -2388,7 +2388,7 @@ input, select, textarea {
 		/* Nav */
 
 			#nav {
-				height: auto;
+				height: inherit;
 				line-height: inherit;
 			}
 
